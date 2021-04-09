@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working with .NET
+- 🌱 I’m currently learning React and clean code in C#
 
 <!--
 **ArtuoS/ArtuoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
