@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working with .NET
-- 🌐 My knowledge stack: ASP.Net/ASP.Net Core, C#, HTML/CSS and Javascript
+- 🔭 I’m currently working with C#
+- 🌐 My knowledge stack: .NET Framework/Core, C#, HTML/CSS and Javascript
 <!--
 **ArtuoS/ArtuoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
