@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working with C# and in my free time I love to play with ReactJS
-- 🌐 My knowledge stack: .NET Framework/Core, C#, HTML/CSS and Javascript
+- 🔭 `I’m currently working with .NET`.
+- 🌐 `My knowledge stack is .NET Framework/Core, C#, HTML/CSS and Javascript`.
+- ✏️ `In my free time I'm improving my skills learning Node and ReactJS`.
 <!--
 **ArtuoS/ArtuoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
